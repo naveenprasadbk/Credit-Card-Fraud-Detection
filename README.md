@@ -81,5 +81,5 @@ Credit card fraud detection is a critical task in the financial industry. This p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Fraud-Detection-ML.git
-   cd Fraud-Detection-ML
+   git clone https://github.com/yourusername/credit_card_fraud_detection_ml.git
+   cd credit_card_fraud_detection_ml
