@@ -76,10 +76,3 @@ Credit card fraud detection is a critical task in the financial industry. This p
 | Deep Learning (ANN) | 0.94    | 0.80      | 0.82   | 0.81     | 0.81 |
 
 ---
-
-## 🔧 Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/credit_card_fraud_detection_ml.git
-   cd credit_card_fraud_detection_ml
